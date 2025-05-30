@@ -27,10 +27,10 @@
 ## 📸 Скриншоты
 
 ### Создание покемона
-![create](https://iimg.su/i/p53YIM)
+![create]([https://iimg.su/i/p53YIM](https://files.catbox.moe/pd5nhl.png))
 
 ### Информация о покемоне
-![info](https://iimg.su/i/Ljr6JI)
+![info]([https://iimg.su/i/Ljr6JI](https://files.catbox.moe/bt1rrq.png))
 
 ---
 
