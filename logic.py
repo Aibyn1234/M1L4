@@ -48,15 +48,6 @@ class Pokemon:
         url = f'https://pokeapi.co/api/v2/pokemon/{self.number}'
         return requests.get(url).json().get('weight', 60)
 
-    def feed(self):
-        self.exp = self.exp + 10
-        if self.exp > 100:
-            self.level += 1
-            self.exp = 0
-            return "level up"
-        else:
-            return "fed"
-
     def info(self):
         rare_text = "🌟 Редкий покемон!" if self.rare else "Обычный покемон"
         return (f"Имя твоего покемона: {self.name}\n"
