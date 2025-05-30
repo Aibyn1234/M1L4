@@ -23,20 +23,3 @@
 4. Кормить покемонов можно с помощью `/feed`.
 
 ---
-
-## 📸 Скриншоты
-
-### Создание покемона
-![create](https://iimg.su/i/p53YIM)
-
-### Информация о покемоне
-![info](https://iimg.su/i/Ljr6JI)
-
----
-
-## 🛠️ Установка проекта (для разработчиков)
-
-```bash
-git clone https://github.com/yourusername/pokemon-telegram-bot.git
-cd pokemon-telegram-bot
-pip install -r requirements.txt
